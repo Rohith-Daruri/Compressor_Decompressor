@@ -1,6 +1,6 @@
 # Compressor_Decompressor
 
-This Project is to Compress the Image file to gz fromat there by reducing the number of bits and restoring the Compressed file using Decompressor option.
+This Project is to Compress the Image file to gz format there by reducing the number of bits needed to represent data through compression technique  and restoring the Compressed file using Decompressor option.
 
 The main Window has compress and decompress options to select the appropriate file and perform the action requested.
 
